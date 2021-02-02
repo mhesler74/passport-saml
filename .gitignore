@@ -1,6 +1,5 @@
-lib
 node_modules/
 .tern-port
 .idea
 yarn-error.log
-.DS_Store 
+.DS_Store
